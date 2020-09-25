@@ -3,8 +3,8 @@
  I've been working with computing since 2017 doing some freelancer works. Now i'm a Fullstack Web Developer learning everyday more and more with my co-workers and web friends.
 
 ### What am I working on now? 🔭
-😄 I'm in the frontline of developing ecommerces and ERP systems
-⚡ Sometimes i do some job in mobile development
+😄 I'm in the frontline of developing ecommerces and ERP systems;
+⚡ Sometimes i do some job in mobile development;
 
 
 ### Some Tools and Languages that I use and love it 👨🏻‍💻
