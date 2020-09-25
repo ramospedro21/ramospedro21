@@ -1,10 +1,13 @@
 ### Hi there 👋
 
- I've been working with computing since 2017 doing some freelancer works. Now i'm a Fullstack Web Developer learning everyday more and more with my co-workers and web friends.
+ I'm [Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/), a Full Stack Developer 🚀 from Brazil, currently, I'm a employed at [@Garnon](https://garnon.me). Beside's programming, I enjoy taste some different beers that i find in supermarket, food and traveling.
+ 
+**Talking about Personal Stuffs:** 🔭
 
-### What am I working on now? 🔭
-😄 I'm in the frontline of developing ecommerces and ERP systems;
-⚡ Sometimes i do some job in mobile development;
+- 👨🏽‍💻 I’m currently working on a ecommerce and ERP's system :wink:;
+- 🌱 I’m currently learning TypeScript and NodeJS; 
+- 📫 How to reach me: [@Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/);
+
 
 
 ### Some Tools and Languages that I use and love it 👨🏻‍💻
@@ -19,9 +22,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-### What i'm working now? ✍️
-
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qreidt&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+✍️ **What i'm working now?**
+<!--START_SECTION:waka-->
+```text
+Laravel        6 hrs 22 mins   ██████████████████▒░░░░░░   73.95 % 
+Vue.JS         2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.05 % 
+Other          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+```
+<!--END_SECTION:waka-->
 
 ### Let't talk!🤘🏻 
 <a href="https://www.linkedin.com/in/pedro-ramos-97168a189/" target="_blank">
