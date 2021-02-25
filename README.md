@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm [Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/), a Full Stack Developer 🚀 from Brazil, currently, I'm a employed at [@Garnon](https://garnon.me). Beside's programming, I enjoy taste some different beers that i find in supermarket, food and traveling.
+ I'm [Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/), a Full Stack Developer 🚀 from Brazil, currently, I'm a employed at [@Youtan](https://youtan.com.br/). Beside's programming, I enjoy taste some different beers that i find in supermarket, food and traveling.
  
 **Talking about Personal Stuffs:** 🔭
 
@@ -33,5 +33,5 @@ Other          8 mins          ▒░░░░░░░░░░░░░░░�
 
 ### Let't talk!🤘🏻 
 <a href="https://www.linkedin.com/in/pedro-ramos-97168a189/" target="_blank">
-  <img align="left" alt="Caio Reidt's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Pedro ramos Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
