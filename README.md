@@ -5,6 +5,7 @@
 **Talking about Personal Stuffs:** 🔭
 
 - 👨🏽‍💻 I’m currently working on a ecommerce and ERP's system :wink:;
+- 🏦 I love work with payment gateways 
 - 🌱 I’m currently learning TypeScript and NodeJS; 
 - 📫 How to reach me: [@Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/);
 
