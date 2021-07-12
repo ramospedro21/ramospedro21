@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm [Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/), a Full Stack Developer 🚀 from Brazil, currently, I'm a employed at [@Youtan](https://youtan.com.br/). Beside's programming, I enjoy taste some different beers that i find in supermarket, food and traveling.
+ I'm [Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/), a Full Stack Developer 🚀 from Brazil, currently, I'm a employed at [@Fasers](https://fasters.com.br/). Beside's programming, I enjoy taste some different beers that i find in supermarket, food and traveling.
  
 **Talking about Personal Stuffs:** 🔭
 
