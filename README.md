@@ -27,9 +27,9 @@
 ✍️ **What i'm working now?**
 <!--START_SECTION:waka-->
 ```text
-Laravel        6 hrs 22 mins   ██████████████████▒░░░░░░   73.95 % 
-Vue.JS         2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.05 % 
-Other          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Laravel         6 hrs 22 mins   ██████████████████▒░░░░░░   73.95 % 
+Node.js         2 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.05 % 
+Other           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 <!--END_SECTION:waka-->
 
