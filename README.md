@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm [Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/), a Full Stack Developer 🚀 from Brazil, currently, I'm a employed at [@Ipê](https://ipe.digital/). Beside's programming, I enjoy taste some different beers that i find in supermarket, food and traveling.
+ I'm [Pedro Ramos](https://www.linkedin.com/in/pedro-ramos-97168a189/), a Full Stack Developer 🚀 from Brazil, currently. Now i'm open for work, looking for new positions in the market. Beside's programming, I love go to gym, play basketball and spend some time with my dog
  
 **Talking about Personal Stuffs:** 🔭
 
@@ -21,8 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code></code>
 
 ✍️ **What i'm working now?**
 <!--START_SECTION:waka-->
